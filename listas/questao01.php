@@ -6,7 +6,7 @@
 $num =1;
 
 while ($num <= 50) {
-   echo "$num: ";
+   echo "\n$num: ";
    $num++;
 }
 

@@ -3,6 +3,7 @@
 //O programa deve apresentar apenas o resultado final.
 //Soma total: 5050
 $a = 0;
+$resultado = 0;
 while ($a <= 100) {
     $resultado += $a;
 
